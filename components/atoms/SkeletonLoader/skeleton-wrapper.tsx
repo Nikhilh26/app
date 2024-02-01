@@ -25,5 +25,4 @@ const SkeletonWrapper = ({ classNames, count = 1, width, height, radius }: Skele
     </>
   );
 };
-
 export default SkeletonWrapper;
